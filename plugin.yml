@@ -1,0 +1,6 @@
+name: TerraStyle
+version: '${version}'
+main: com.example.terrastyle.TerraStylePlugin
+api-version: '1.21'
+load: STARTUP
+description: Terra-inspired terrain generator for the existing Paper Overworld
